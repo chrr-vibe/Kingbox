@@ -1,6 +1,6 @@
 /* 임금님 다마고치 service worker
    - index.html 등을 수정해서 올릴 때마다 아래 VERSION 숫자를 하나씩 올려주세요. */
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CACHE = 'kinggotchi-' + VERSION;
 const CORE = [
   './',
